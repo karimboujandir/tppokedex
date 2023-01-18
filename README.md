@@ -1,0 +1,2 @@
+# tppokedex
+tp pokedex api
